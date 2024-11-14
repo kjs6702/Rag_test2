@@ -130,7 +130,7 @@ def main():
         st.chat_message("user").write(f"{user_input}") 
         with st.chat_message("assistant"):    
             
-            llm = RemoteRunnable("https://093e-61-108-59-163.ngrok-free.app/llm")
+            llm = RemoteRunnable("https://active-legally-lemming.ngrok-free.app/llm")
             chat_container = st.empty()
             
             if  st.session_state.processComplete==True:
