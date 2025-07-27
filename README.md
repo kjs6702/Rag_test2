@@ -27,8 +27,8 @@
 
 ## 주요 파일
 
-* 'rag_test4.py' : 메인 실행 코드
-* 'requirements.txt' : 의존성 패키지 목록
+* `rag_test4.py` : 메인 실행 코드
+* `requirements.txt` : 의존성 패키지 목록
 
 ---
 
