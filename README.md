@@ -25,14 +25,13 @@
 
 ---
 
-## 설치 및 실행 방법 (Installation & Usage)
+## 주요 파일
 
-*(여기에 프로젝트를 설치하고 실행하는 구체적인 명령어나 절차를 추가해 주세요. 예를 들어 `git clone`, `poetry install`, `poetry run langchain serve`, `streamlit run app.py` 등)*
-
----
-
-## 라이선스 (License)
-
-*(여기에 프로젝트 라이선스 정보를 추가해 주세요. 예: MIT License)*
+* **rag_test4.py : 메인 실행 코드
+* **requirements.txt : 의존성 패키지 목록
 
 ---
+
+
+
+
